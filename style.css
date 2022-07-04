@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: navy;
+    color: #fff;
+}
+h1 , p{
+    padding: 30px;
+}
